@@ -239,3 +239,8 @@ only run elassandra-config tests:
 
 To deploy Elassandra on Kubernetes, see the HELM charts repository available at [https://github.com/strapdata/strapcharts](https://github.com/strapdata/strapcharts)
 or the [Google Cloud Kubernetes Marketplace](https://console.cloud.google.com/marketplace/details/strapdata/elassandra?filter=solution-type:k8s).
+
+
+https://medium.com/rahasak/elassandra-936ab46a6516
+https://gist.github.com/tobert/d3a047fa438bace6da1a
+https://medium.com/rahasak/backup-and-restore-cassandra-cluster-8c0e0d7de445
